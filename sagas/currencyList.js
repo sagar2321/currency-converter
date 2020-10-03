@@ -11,7 +11,7 @@ import {
 
 
 //set exchangeratesapi Base URL
-const API_Base_URL = 'https://currency-converter-redux.herokuapp.com:8080/';
+const API_Base_URL = 'https://currency-converter-redux.herokuapp.com/';
 
 
 
