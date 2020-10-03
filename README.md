@@ -7,7 +7,7 @@ Live exchange rates was provided by: <a href="https://exchangeratesapi.io" targe
 <br/><br/>
 
 <b>Installation</b><br/>
-1. Clone repo: `git clone https://github.com/abeltolu/react-currency-converter.git`<br/><br/>
+1. Clone repo: `git clone https://github.com/sagar2321/currency-converter.git`<br/><br/>
 2. `cd react-currency-converter`<br/><br/>
 3. In your terminal, create a .env file using: `touch .env`<br/><br/>
 4. Run `npm install`<br/><br/>
